@@ -17,3 +17,6 @@
 
 # js 
 wasm_exec.js
+
+# MacOS
+.DS_Store
